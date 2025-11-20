@@ -1,0 +1,19 @@
+{
+  "name": "galaxy-race-cocos",
+  "version": "1.0.0",
+  "description": "银河竞赛 - Cocos Creator版本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cocos",
+    "game",
+    "galaxy-race"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cocos-creator": "^3.8.0"
+  }
+}
